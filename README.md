@@ -43,12 +43,15 @@ Buat Program untuk mengurutkan data berdasarakan input sejumlah data (_minimal 3
 ### Latihan 1
 Buat Program dengan perulangan bertingkat (nested) for
 > Berikut Codingnya 
-> >  menampilkan variable i , (" " * 3) Artinya menambahkan spasi tiga kali lalu end => yaitu memulai baris baru setelah nilai terkahir
-> >  melakukan perulangan dari 1 sampai 10
+- menampilkan variable i , (" " * 3) Artinya menambahkan spasi tiga kali lalu end => yaitu memulai baris baru setelah nilai terkahir
+- melakukan perulangan dari 1 sampai 10
+
+
 ![image](https://user-images.githubusercontent.com/115475424/200752830-138c01f1-e264-40ea-8679-efdff7a97265.png)
 
 
 > Berikut Hasilnya :
+
 ![image](https://user-images.githubusercontent.com/115475424/200752858-e02e22b5-3672-4f14-b8af-1b1a68c7b5c5.png)
 
 
@@ -57,12 +60,16 @@ Buat Program dengan perulangan bertingkat (nested) for
 - nilai n diisi pada saat runtime 
 - anda bisa menggunakan kombinasi while dan for untuk menyelesaikannya 
 > Berikut Codingnya :
+
+
 ![image](https://user-images.githubusercontent.com/115475424/200753613-898102cf-2cb1-48a9-b7ed-12ca1efd530c.png)
 
 
 > Berikut Hasilnya :
+
+
 ![image](https://user-images.githubusercontent.com/115475424/200753640-744d7a6d-5f5a-4061-804a-662f7c8cb0a5.png)
 
 
 
-
+## _Selesai_
